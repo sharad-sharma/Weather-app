@@ -1,0 +1,15 @@
+body {
+  margin: 0 auto;
+  max-width: 640px;
+}
+#root {
+  padding: 5px;
+  background: palevioletred;
+  margin-bottom: 10px;
+}
+#root div {
+  padding: 5px;
+}
+#root :hover{
+  background: rosybrown;
+}
